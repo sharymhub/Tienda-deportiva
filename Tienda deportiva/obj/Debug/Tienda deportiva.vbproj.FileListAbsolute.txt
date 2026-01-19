@@ -1,0 +1,243 @@
+C:\Users\SENA\source\repos\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.exe.config
+C:\Users\SENA\source\repos\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.exe
+C:\Users\SENA\source\repos\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.pdb
+C:\Users\SENA\source\repos\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.xml
+C:\Users\SENA\source\repos\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.vbproj.AssemblyReference.cache
+C:\Users\SENA\source\repos\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Login.resources
+C:\Users\SENA\source\repos\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Resources.resources
+C:\Users\SENA\source\repos\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.vbproj.GenerateResource.cache
+C:\Users\SENA\source\repos\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.vbproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.exe
+C:\Users\SENA\source\repos\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.xml
+C:\Users\SENA\source\repos\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.pdb
+C:\Users\SENA\source\repos\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.menu.resources
+C:\Users\SENA\source\repos\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Productos.resources
+C:\Users\SENA\source\repos\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Trabajadores.resources
+C:\Users\SENA\source\repos\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Ventas.resources
+C:\Users\SENA\source\repos\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Facturas.resources
+C:\Users\SENA\source\repos\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Usuarios.resources
+C:\Users\SENA\Downloads\tienda D\Tienda deportiva\Tienda deportiva\bin\Debug\Database2000.mdb
+C:\Users\SENA\Downloads\tienda D\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.exe.config
+C:\Users\SENA\Downloads\tienda D\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.exe
+C:\Users\SENA\Downloads\tienda D\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.pdb
+C:\Users\SENA\Downloads\tienda D\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.xml
+C:\Users\SENA\Downloads\tienda D\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.vbproj.AssemblyReference.cache
+C:\Users\SENA\Downloads\tienda D\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Facturas.resources
+C:\Users\SENA\Downloads\tienda D\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Login.resources
+C:\Users\SENA\Downloads\tienda D\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.menu.resources
+C:\Users\SENA\Downloads\tienda D\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Resources.resources
+C:\Users\SENA\Downloads\tienda D\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Productos.resources
+C:\Users\SENA\Downloads\tienda D\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Trabajadores.resources
+C:\Users\SENA\Downloads\tienda D\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Usuarios.resources
+C:\Users\SENA\Downloads\tienda D\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Ventas.resources
+C:\Users\SENA\Downloads\tienda D\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.vbproj.GenerateResource.cache
+C:\Users\SENA\Downloads\tienda D\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.vbproj.CoreCompileInputs.cache
+C:\Users\SENA\Downloads\tienda D\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.exe
+C:\Users\SENA\Downloads\tienda D\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.xml
+C:\Users\SENA\Downloads\tienda D\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.pdb
+C:\Users\aleji\OneDrive\Escritorio\TRABAJOS SENA\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\bin\Debug\Database2000.mdb
+C:\Users\aleji\OneDrive\Escritorio\TRABAJOS SENA\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.exe.config
+C:\Users\aleji\OneDrive\Escritorio\TRABAJOS SENA\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.exe
+C:\Users\aleji\OneDrive\Escritorio\TRABAJOS SENA\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.pdb
+C:\Users\aleji\OneDrive\Escritorio\TRABAJOS SENA\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.xml
+C:\Users\aleji\OneDrive\Escritorio\TRABAJOS SENA\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.vbproj.AssemblyReference.cache
+C:\Users\aleji\OneDrive\Escritorio\TRABAJOS SENA\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Facturas.resources
+C:\Users\aleji\OneDrive\Escritorio\TRABAJOS SENA\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Login.resources
+C:\Users\aleji\OneDrive\Escritorio\TRABAJOS SENA\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Resources.resources
+C:\Users\aleji\OneDrive\Escritorio\TRABAJOS SENA\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Productos.resources
+C:\Users\aleji\OneDrive\Escritorio\TRABAJOS SENA\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Trabajadores.resources
+C:\Users\aleji\OneDrive\Escritorio\TRABAJOS SENA\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Usuarios.resources
+C:\Users\aleji\OneDrive\Escritorio\TRABAJOS SENA\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.vbproj.GenerateResource.cache
+C:\Users\aleji\OneDrive\Escritorio\TRABAJOS SENA\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.vbproj.CoreCompileInputs.cache
+C:\Users\aleji\OneDrive\Escritorio\TRABAJOS SENA\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.exe
+C:\Users\aleji\OneDrive\Escritorio\TRABAJOS SENA\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.xml
+C:\Users\aleji\OneDrive\Escritorio\TRABAJOS SENA\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.pdb
+C:\Users\aleji\OneDrive\Escritorio\TRABAJOS SENA\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.VentasPanel.resources
+C:\Users\aleji\OneDrive\Escritorio\TRABAJOS SENA\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Menú.resources
+C:\Users\SENA\Documents\ADSO\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\bin\Debug\Database2000.mdb
+C:\Users\SENA\Documents\ADSO\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.exe.config
+C:\Users\SENA\Documents\ADSO\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.exe
+C:\Users\SENA\Documents\ADSO\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.pdb
+C:\Users\SENA\Documents\ADSO\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.xml
+C:\Users\SENA\Documents\ADSO\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.vbproj.AssemblyReference.cache
+C:\Users\SENA\Documents\ADSO\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Facturas.resources
+C:\Users\SENA\Documents\ADSO\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Login.resources
+C:\Users\SENA\Documents\ADSO\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Menu_empleados.resources
+C:\Users\SENA\Documents\ADSO\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Resources.resources
+C:\Users\SENA\Documents\ADSO\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Productos.resources
+C:\Users\SENA\Documents\ADSO\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Trabajadores.resources
+C:\Users\SENA\Documents\ADSO\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Usuarios.resources
+C:\Users\SENA\Documents\ADSO\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Menú.resources
+C:\Users\SENA\Documents\ADSO\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.VentasPanel.resources
+C:\Users\SENA\Documents\ADSO\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.vbproj.GenerateResource.cache
+C:\Users\SENA\Documents\ADSO\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.vbproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\ADSO\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.exe
+C:\Users\SENA\Documents\ADSO\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.xml
+C:\Users\SENA\Documents\ADSO\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.pdb
+C:\Users\SENA\Downloads\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.vbproj.AssemblyReference.cache
+C:\Users\SENA\Downloads\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.exe
+C:\Users\SENA\Downloads\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.xml
+C:\Users\SENA\Downloads\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.pdb
+C:\Users\SENA\Downloads\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Facturas.resources
+C:\Users\SENA\Downloads\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Menu_empleados.resources
+C:\Users\SENA\Downloads\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Resources.resources
+C:\Users\SENA\Downloads\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Productos.resources
+C:\Users\SENA\Downloads\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Trabajadores.resources
+C:\Users\SENA\Downloads\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Usuarios.resources
+C:\Users\SENA\Downloads\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Menú.resources
+C:\Users\SENA\Downloads\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.VentasPanel.resources
+C:\Users\SENA\Downloads\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.vbproj.GenerateResource.cache
+C:\Users\SENA\Downloads\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.vbproj.CoreCompileInputs.cache
+C:\Users\SENA\Downloads\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\bin\Debug\Database2000.mdb
+C:\Users\SENA\Downloads\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.exe.config
+C:\Users\SENA\Downloads\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.exe
+C:\Users\SENA\Downloads\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.pdb
+C:\Users\SENA\Downloads\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.xml
+C:\Users\SENA\Downloads\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.yest.resources
+C:\Users\shara\Downloads\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\bin\Debug\Database2000.mdb
+C:\Users\shara\Downloads\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.exe.config
+C:\Users\shara\Downloads\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.exe
+C:\Users\shara\Downloads\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.pdb
+C:\Users\shara\Downloads\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.xml
+C:\Users\shara\Downloads\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.vbproj.AssemblyReference.cache
+C:\Users\shara\Downloads\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Facturas.resources
+C:\Users\shara\Downloads\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Menu_empleados.resources
+C:\Users\shara\Downloads\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Resources.resources
+C:\Users\shara\Downloads\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Productos.resources
+C:\Users\shara\Downloads\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Trabajadores.resources
+C:\Users\shara\Downloads\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Usuarios.resources
+C:\Users\shara\Downloads\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Menú.resources
+C:\Users\shara\Downloads\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.VentasPanel.resources
+C:\Users\shara\Downloads\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.yest.resources
+C:\Users\shara\Downloads\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.vbproj.GenerateResource.cache
+C:\Users\shara\Downloads\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.vbproj.CoreCompileInputs.cache
+C:\Users\shara\Downloads\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.exe
+C:\Users\shara\Downloads\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.xml
+C:\Users\shara\Downloads\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.pdb
+C:\Users\shara\Downloads\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.FrClientes.resources
+C:\Users\shara\Downloads\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.ReporteVenta.resources
+C:\Users\SENA\Downloads\Tienda deportiva(productos) (4)\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.vbproj.AssemblyReference.cache
+C:\Users\SENA\Downloads\Tienda deportiva(productos) (4)\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.exe
+C:\Users\SENA\Downloads\Tienda deportiva(productos) (4)\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.xml
+C:\Users\SENA\Downloads\Tienda deportiva(productos) (4)\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.pdb
+C:\Users\SENA\Downloads\Tienda deportiva(productos) (4)\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Facturas.resources
+C:\Users\SENA\Downloads\Tienda deportiva(productos) (4)\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.FrClientes.resources
+C:\Users\SENA\Downloads\Tienda deportiva(productos) (4)\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Menu_empleados.resources
+C:\Users\SENA\Downloads\Tienda deportiva(productos) (4)\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Resources.resources
+C:\Users\SENA\Downloads\Tienda deportiva(productos) (4)\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Productos.resources
+C:\Users\SENA\Downloads\Tienda deportiva(productos) (4)\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.ReporteVenta.resources
+C:\Users\SENA\Downloads\Tienda deportiva(productos) (4)\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Trabajadores.resources
+C:\Users\SENA\Downloads\Tienda deportiva(productos) (4)\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Usuarios.resources
+C:\Users\SENA\Downloads\Tienda deportiva(productos) (4)\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Menú.resources
+C:\Users\SENA\Downloads\Tienda deportiva(productos) (4)\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.VentasPanel.resources
+C:\Users\SENA\Downloads\Tienda deportiva(productos) (4)\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.yest.resources
+C:\Users\SENA\Downloads\Tienda deportiva(productos) (4)\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.vbproj.GenerateResource.cache
+C:\Users\SENA\Downloads\Tienda deportiva(productos) (4)\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\bin\Debug\Database2000.mdb
+C:\Users\SENA\Downloads\Tienda deportiva(productos) (4)\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.exe.config
+C:\Users\SENA\Downloads\Tienda deportiva(productos) (4)\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.exe
+C:\Users\SENA\Downloads\Tienda deportiva(productos) (4)\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.pdb
+C:\Users\SENA\Downloads\Tienda deportiva(productos) (4)\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.xml
+C:\Users\SENA\Downloads\Tienda deportiva(productos) (4)\Tienda deportiva(productos) (3)\Tienda deportiva(productos)\Tienda deportiva(productos)\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.vbproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\Database2000.mdb
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.exe.config
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.exe
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.pdb
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\Tienda deportiva.xml
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\EnvDTE.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\stdole.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\Microsoft.MSXML.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.vbproj.AssemblyReference.cache
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Facturas.resources
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.FrClientes.resources
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Menu_empleados.resources
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Resources.resources
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Productos.resources
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.ReporteVenta.resources
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Trabajadores.resources
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Usuarios.resources
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.Menú.resources
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.VentasPanel.resources
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda_deportiva.yest.resources
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.vbproj.GenerateResource.cache
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.vbproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.vbproj.CopyComplete
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.exe
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.xml
+C:\Users\SENA\Documents\ADSO\Tienda deportiva\Tienda deportiva\obj\Debug\Tienda deportiva.pdb
